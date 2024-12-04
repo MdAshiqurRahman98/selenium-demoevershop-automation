@@ -1,0 +1,20 @@
+{
+  "name": "selenium-demoevershop-automation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node script.js"
+  },
+  "keywords": [
+    "selenium-webdriver",
+    "xpath",
+    "locators"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "chromedriver": "^131.0.2",
+    "selenium-webdriver": "^4.27.0"
+  }
+}
